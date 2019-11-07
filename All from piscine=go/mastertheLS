@@ -1,0 +1,1 @@
+ls -c -m -A --ignore=PATTERN -t -p | tr -d ' '
